@@ -1,0 +1,9 @@
+.menu-container{
+     list-style: none;
+}
+.menu-container a{
+     text-decoration: none;
+}
+.logo{
+     text-shadow: 2px 2px 5px rgb(46, 0, 0);
+}
